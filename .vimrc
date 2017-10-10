@@ -1,0 +1,10 @@
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+set rtp+=~/.vim/bundle
+call vundle#begin('~/.vim/bundle')
+Plugin 'VundleVim/Vundle.vim'
+source ~/.vim/plugins.vim
+call vundle#end()
+filetype on
+source ~/.vim/rc.vim
