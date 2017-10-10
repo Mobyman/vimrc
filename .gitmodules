@@ -1,0 +1,59 @@
+[submodule "editorconfig"]
+	path = bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+
+[submodule "vundle"]
+	path = bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+
+[submodule "jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+
+[submodule "nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+
+[submodule "syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+
+[submodule "vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+
+[submodule "jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+
+[submodule "jedi"]
+	path = bundle/jedi
+	url = https://github.com/davidhalter/jedi.git
+
+[submodule "jedi"]
+	path = bundle/jedi
+	url = https://github.com/davidhalter/jedi.git
+
+[submodule "python-mode"]
+	path = bundle/python-mode
+	url = https://github.com/klen/python-mode.git
+
+[submodule "vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+
+[submodule "vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+
+[submodule "vim-airline"]
+	path = bundle/vim-airline
+    url = https://github.com/vim-airline/vim-airline.git
+
+[submodule "vim-airline-themes"]
+	path = bundle/vim-airline-themes
+    url = https://github.com/vim-airline/vim-airline-themes.git
+
+
+
+
